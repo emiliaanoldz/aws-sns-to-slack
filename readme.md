@@ -15,10 +15,6 @@ Para utilizar el script, debes crear un bot para utilizar un Webhook. [Mas infor
 
 Para que el envío se efectúe, hay que apuntar el SNS a nuestro script.
 
-## Rename a file
-
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
-
 # Seguridad
 
 Usando el SDK de Amazon para PHP verificamos que la firma del SNS provenga de Amazon.
